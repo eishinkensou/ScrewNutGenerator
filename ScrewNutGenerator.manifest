@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "script",
+	"author": "Eishin",
+	"description": {
+		"": "ISO metric bolt / nut generator (M2-M20, modeled threads, print clearance)"
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
